@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Sıla’ya...</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(#0f0f0f, #1c1c1c);
+  color: #fff;
+  padding: 30px;
+  line-height: 1.8;
+}
+h1, h2 {
+  color: #ff6b81;
+  text-align: center;
+}
+.section {
+  max-width: 800px;
+  margin: 40px auto;
+  background: rgba(255,255,255,0.05);
+  padding: 25px;
+  border-radius: 12px;
+}
+.heart {
+  text-align: center;
+  font-size: 40px;
+}
+</style>
+</head>
+<body>
+
+<h1>Sıla’ya…</h1>
+<p style="text-align:center;">Bu site kalbimden sana…</p>
+
+<div class="section">
+<h2>Canım Sıla</h2>
+<p>
+Seni üzdüğümü, kırdığımı biliyorum. Bunun için gerçekten çok üzgünüm.
+1.2 aydır hayatımda olman benim için çok kıymetli.  
+Yaptığım hatadan dolayı kalbini incittiğim için bin kere özür dilerim.
+</p>
+</div>
+
+<div class="section">
+<h2>Seni Kaybetmek İstemiyorum</h2>
+<p>
+Bu site sadece bir özür değil…  
+Bu, sana ne kadar değer verdiğimin, seni ne kadar sevdiğimin bir kanıtı.
+</p>
+</div>
+
+<div class="section">
+<h2>Sana Sözlerim</h2>
+<ul>
+<li>Seni daha çok dinleyeceğim</li>
+<li>Hislerini her zaman önemseyeceğim</li>
+<li>Seni üzmemek için daha çok çabalayacağım</li>
+<li>Sana layık bir sevgili olmaya çalışacağım</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Son Söz</h2>
+<p>
+Canım Sıla,  
+Kalbini kırdığım için çok üzgünüm.  
+Bana bir şans daha verirsen, sana bunu her gün hissettireceğim.
+</p>
+<div class="heart">❤️</div>
+<p style="text-align:center;">Seni çok seviyorum…<br>— Kadir</p>
+</div>
+
+</body>
+
+</html>
